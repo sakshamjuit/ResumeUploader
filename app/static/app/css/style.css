@@ -1,0 +1,23 @@
+ul {
+    display: inline-flex;
+    list-style-type: none;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    padding-left: 10px;
+}
+
+#id_gender > li{
+    padding-left : 10px;
+}
+
+#id_job_city > li{
+    padding-left : 10px;
+}
+
+.bdr{
+    height:20px;
+    background-color : blue;
+
+}
